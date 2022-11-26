@@ -1,5 +1,5 @@
 {
-  "name": "math-basic-operation",
+  "name": "@dineshkashera/math-basic-operation",
   "version": "1.0.0",
   "description": "Will perform basic math operation",
   "main": "index.js",
