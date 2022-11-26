@@ -1,9 +1,9 @@
 # math-operation
-Will perform basic math operations
+Will perform basic math basic operations
 
 # Installation
 ```bash
-npm install math-operation
+npm install math-basic-operation
 ```
 # Demo
 ```angular2html

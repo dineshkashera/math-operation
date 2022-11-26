@@ -1,5 +1,5 @@
 {
-  "name": "math-operation",
+  "name": "math-basic-operation",
   "version": "1.0.0",
   "description": "Will perform basic math operation",
   "main": "index.js",
