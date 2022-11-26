@@ -1,0 +1,22 @@
+{
+  "name": "@dineshkashera/math-basic-operation",
+  "version": "1.0.1",
+  "description": "Will perform basic math operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshkashera/math-operation.git"
+  },
+  "keywords": [
+    "math-operation"
+  ],
+  "author": "dineshkashera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshkashera/math-operation/issues"
+  },
+  "homepage": "https://github.com/dineshkashera/math-operation#readme"
+}
