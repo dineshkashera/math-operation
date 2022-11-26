@@ -1,6 +1,6 @@
 {
   "name": "@dineshkashera/math-basic-operation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Will perform basic math operation",
   "main": "index.js",
   "scripts": {
