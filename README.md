@@ -7,7 +7,7 @@ npm install math-basic-operation
 ```
 # Demo
 ```angular2html
-const mathOpt = require('math-operation');
+const mathOpt = require('math-basic-operation');
 
 const mathObj = new mathOpt();
 
