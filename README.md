@@ -3,7 +3,7 @@ Will perform basic math basic operations
 
 # Installation
 ```bash
-npm install math-basic-operation
+npm i @dineshkashera/math-basic-operation
 ```
 # Demo
 ```angular2html
